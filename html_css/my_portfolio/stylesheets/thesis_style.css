@@ -1,0 +1,24 @@
+h1 {
+	font-family: "Roboto";
+	text-transform: uppercase;
+}
+
+.author {
+	font-family: "Condiment";
+	font-style: italic;
+}
+
+p {
+	font-family: "Open Sans";
+}
+
+h2 {
+	font-family: "Oswald";
+}
+
+a {
+	font-size: 10px;
+}
+a:hover {
+	color: red;
+}
