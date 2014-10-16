@@ -1,0 +1,161 @@
+* {
+	font-family: "Arial";
+}
+
+strong {
+	font-family: "Arial Black";
+	font-weight: 800;
+}
+
+.logo {
+	 padding: 25px 0 0 120px;
+}
+
+.navbar {
+	float: right;
+	height: 30px;
+	margin-right: 200px
+}
+
+div ul li {
+	margin: 0 5px 0 5px;
+	display: inline-block;
+	list-style: none;
+	color: #666;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+ul li a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #666;
+}
+
+ul li:hover {
+	background-color: #FF3300;
+	border-radius: 5px;
+	color: white;
+}
+
+ul li a span {
+	font-size: 11px;
+	vertical-align: 2px;
+}
+
+.slider_img {
+	height: 35%;
+	width: 35%;
+	margin: 80px 0 -28px 120px;
+}
+
+.slider {
+	background-image: url('background.jpg');
+	background-size: cover;
+	float: left;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.slider_post {
+	float: left;
+	float: right;
+	width: 40%;
+	margin: 60px 180px 0 0;
+}
+
+.slider_header { 
+	font-size: 30px;
+	color: black;
+	font-weight: 900px;
+}
+
+.slider_text {
+	color: #666;
+	font-size: 16px;
+}
+
+div div p span {
+	color: #FF3300;
+	font-family: "Arial Black";
+	font-weight: 800;
+}
+
+div div input { display: inline-block; }
+
+input {
+	padding: 8px 80px 8px 80px;
+	margin-right: 0;
+	font-size: 16px;
+}
+
+.subscribe {
+	padding: 10px 20px 10px 20px;
+	border-radius: 0 5px 5px 0;
+	background-color: #FF3300;
+	margin-left: -5px;
+	color: white;
+	font-family: "Arial"
+}
+
+div div div { display: inline-block; }
+
+table {
+	clear: left;
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px 0 20px 0;
+}
+
+table td {
+	padding: 0 10px;
+}
+
+table td div {
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	float: left;
+	background-color: #FF3300;
+	margin: 20px 20px 120px 20px;
+}
+
+.blog_header { font-size: 22px;}
+
+.blog_text {
+	font-size: 16px;
+	color: #666;
+}
+
+.learn_more {
+	font-size: 12px;
+}
+
+.footer {
+	margin: 0 auto;
+	width: 80%;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.footer_header {
+	font-size: 24px;
+}
+
+.footer_text {
+	font-size: 14px;
+	color: #666;
+}
+
+.lower_button {
+	width: 40px;
+	height: 40px;
+	background-color: #FF3300;
+	position: absolute;
+	bottom: 5px;
+	right: 1px;
+	color: white;
+}
